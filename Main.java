@@ -17,8 +17,6 @@ class Main {
     System.out.println(d.quotientOf());
 
   }
-
-
   static int sum(int num1, int num2);
   {
   return num1 + num2;  
